@@ -3,10 +3,8 @@ class Person
         @name = name
         @breed = breed
     end
-
     def breed
         @breed
     end
 end
-puts 
 
